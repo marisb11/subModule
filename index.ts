@@ -3,4 +3,6 @@ let b = 10;
 
 let c = a + b;
 
-export { c };
+console.log("TEST");
+
+export default c;
